@@ -1,0 +1,16 @@
+body {
+    background-color: #b5a28f;
+    height: 70vh;
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+    height: 200px;
+    background-color: #000000;
+}
+
+.main-content{
+    background-color: antiquewhite;
+    width:75%;
+}
