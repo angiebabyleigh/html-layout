@@ -1,0 +1,47 @@
+body {
+    background-color: whitesmoke;
+}
+
+header {
+    background-color:  #D8D8D8;
+    height: 15vh;
+    padding: 2vh;
+}
+
+.small_blue_box {
+    background-color:  #4A90E2;
+    height: 10vh;
+    width: 10vh;
+    margin: 0vh 75vh 7vh 1vh;
+    padding: 3vh;
+    /* display: float; */
+}
+
+.white_box {
+    color: black;
+    height: 25vh;
+    font-size: 4vh;
+    margin-top: 4vh;
+    margin-left: 12vh;
+    margin-right: 12vh;
+}
+
+.ltblue_box {
+    background-color: #4A90E2;
+    height: 16vh;
+}
+
+.cyan_box {
+    background-color: #50E3C2;
+    height: 16vh;
+}
+
+.ltgreen_box {
+    background-color: #B8E986;
+    height: 16vh;
+}
+
+.yellow_box {
+    background-color: #F8E71C;
+    height: 16vh;
+}
